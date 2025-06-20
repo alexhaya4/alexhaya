@@ -1,6 +1,6 @@
 
 ## Electrical & Electronics Engineer
-
+## Software Engineer
 **Contact**  
 📞 +254 740 566 764  
 ✉️ [alexhaya19@gmail.com](mailto:alexhaya19@gmail.com)  
@@ -19,7 +19,7 @@
 
 ## Education
 - **B.Sc., Electrical & Electronics Engineering**  
-  Murang’a University of Technology _(Expected Oct 2025)_
+  Murang’a University of Technology _ 2025_
 - **Kenya Certificate of Secondary Education**  
   Kisumu Boys High School
 
