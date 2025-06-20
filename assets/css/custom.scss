@@ -1,1 +1,19 @@
+---
+---
+
+/* Float the header logo left and clip it to a circle */
+header .site-logo {
+  float: left !important;
+  width: 150px !important;
+  height: 150px !important;
+  border-radius: 50% !important;
+  margin-right: 1rem !important;
+}
+
+/* Keep the title vertically centered next to the logo */
+header .site-title {
+  display: inline-block !important;
+  vertical-align: middle !important;
+  margin-top: 0 !important;
+}
 
