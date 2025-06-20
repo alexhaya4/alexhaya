@@ -1,13 +1,3 @@
-# Alex O. Haya
-
-<p align="center">
-  <img 
-    src="https://github.com/alexhaya4.png?size=200" 
-    alt="Headshot" 
-    width="150" 
-    style="border-radius:50%; margin: 0 auto;" 
-  />
-</p>
 
 ## Electrical & Electronics Engineer
 
