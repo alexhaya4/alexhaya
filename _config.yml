@@ -1,7 +1,7 @@
-title: Alex Haya
+title: Alex O. Haya
 logo: assets/img/headshot_circle.jpg
 theme: jekyll-theme-minimal
-show_downloads: true
+show_downloads: false
 
 # enable custom SCSS
 sass:
