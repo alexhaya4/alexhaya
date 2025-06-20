@@ -1,0 +1,16 @@
+---
+---
+
+/* Float the header logo to the left and make it a perfect circle */
+header .site-logo {
+  float: left !important;
+  width: 150px !important;
+  height: 150px !important;
+  border-radius: 50% !important;
+  margin-right: 1rem !important;
+}
+header .site-title {
+  display: inline-block !important;
+  vertical-align: middle !important;
+  margin-top: 0 !important;
+}
