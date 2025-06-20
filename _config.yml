@@ -1,5 +1,4 @@
-title: Alex O. Haya
-logo: /assets/img/headshot_circle.png
-#description: text below image
-show_downloads: true
+title: Alex Haya
+logo: assets/img/headshot_circle.png
 theme: jekyll-theme-minimal
+# or remote_theme: orderedlist/minimal
