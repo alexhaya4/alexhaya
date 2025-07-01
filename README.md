@@ -20,9 +20,6 @@
 ## Education
 - **B.Sc., Electrical & Electronics Engineering**  
   Murang’a University of Technology _ 2025_
-- **Kenya Certificate of Secondary Education**  
-  Kisumu Boys High School
-
 ---
 
 ## Experience  
